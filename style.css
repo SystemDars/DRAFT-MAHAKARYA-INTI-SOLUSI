@@ -17,7 +17,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 60rem;
+  height: 980px;
 }
 
 /* .con1 {
@@ -74,7 +74,7 @@ body {
 }
 
 .title5 {
-  padding-top: 12%;
+  padding-top: 6rem;
   padding-left: 2%;
 }
 
@@ -313,26 +313,35 @@ body {
 
 #ourproduct {
   width: auto;
-  height: 160rem;
+  height: 149rem;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-image: url(image/product/backgroudourproduct.png);
 }
 
+#opbg1 {
+  width: auto;
+  height: 15rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(image/product/opbg1.png);
+}
+
 .optitle {
   color: #fff;
   font-size: 3.75rem;
   font-weight: bold;
-  padding-top: 9.4rem;
+  padding-top: 12.9rem;
 }
 
 .optitle2 {
   color: #fff;
   /* font-size: 3.75rem; */
   font-weight: bold;
-  padding-top: 2.3rem;
-  padding-bottom: 2.5rem;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
   font-style: italic;
 }
 
