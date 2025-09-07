@@ -361,12 +361,12 @@ body {
 .titleau {
   font-size: 3.5rem;
   font-weight: bold;
-  padding-top: 4rem;
+  padding-top: 5.3rem;
   text-shadow: 0 0 5px #c6ddf8;
 }
 
 .titleau2 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   text-align: justify;
   padding-top: 3%;
   padding-bottom: 1%;
@@ -395,8 +395,10 @@ body {
 }
 
 .visiontitle2 {
+  padding-top: 1.1rem;
+  padding-bottom: 0.7rem;
   padding-left: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .missionlg {
@@ -413,7 +415,8 @@ body {
 }
 
 .missiontitle2 {
-  font-size: 1.2rem;
+  padding-top: 0.6rem;
+  font-size: 1.3rem;
 }
 
 #hww {
@@ -437,7 +440,7 @@ body {
 }
 
 .titlehww {
-  padding-top: 2.8rem;
+  padding-top: 4.5rem;
   padding-left: 0.5rem;
   font-size: 3.5rem;
   font-weight: bold;
@@ -445,9 +448,10 @@ body {
 }
 
 .titlehww2 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   padding-left: 0.7rem;
-  padding-top: 1rem;
+  padding-top: 1.3rem;
+  padding-bottom: 1.2rem;
 }
 
 .titlehww3 {
@@ -455,11 +459,16 @@ body {
 }
 
 .titlehww31 {
+  font-size: 1.1rem;
   color: #04679f;
 }
 
+.titlehww32 {
+  font-size: 1.1rem;
+}
+
 .titlehww4 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   padding-left: 2rem;
 }
 
@@ -478,7 +487,7 @@ body {
 }
 
 .titlesucess1 {
-  padding-top: 5rem;
+  padding-top: 6.9rem;
 }
 
 #contactus {
@@ -487,7 +496,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(image/contactus/contactbg.png);
+  background-image: url(image/contactus/bgcontactus.svg);
 }
 
 .titlecontact {
