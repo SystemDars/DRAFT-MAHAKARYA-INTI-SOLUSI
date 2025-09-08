@@ -76,6 +76,7 @@ body {
 .title5 {
   padding-top: 6rem;
   padding-left: 2%;
+  white-space: nowrap;
 }
 
 .title5 img {
